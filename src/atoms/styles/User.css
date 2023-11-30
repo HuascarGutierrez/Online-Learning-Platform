@@ -1,0 +1,10 @@
+.usuario {
+    display: flex;
+    flex-direction: row;
+    width: 135px;
+    align-items: center;
+}
+.usuario img{
+    width: 30px;
+    height: 30px;
+}

@@ -1,0 +1,9 @@
+.icono {
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+}
+.iconName {
+    font-size: 30px;
+    margin: 0;
+}

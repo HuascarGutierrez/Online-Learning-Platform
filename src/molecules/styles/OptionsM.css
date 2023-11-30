@@ -1,0 +1,7 @@
+.opciones {
+    display: flex;
+    flex-direction: row;
+    width: 713px;
+    justify-content: space-between;
+    align-items: center;
+}
